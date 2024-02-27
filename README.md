@@ -1,6 +1,6 @@
-### Hi there 👋
-I’m kelevis，focusing on Golang, Gin, Vue…
-📫 [Blog](https://kelevis.github.io)
+## Hi there 👋
+🌱 I’m kelevis，focusing on Golang, Vue, Web3.0…  
+📫 [Blogger](https://kelevis.github.io)
 
 <!--
 **kelevis/kelevis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
