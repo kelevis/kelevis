@@ -2,7 +2,7 @@
 🌱 I’m kelevis，focusing on Golang, Vue, Web3.0…  
 📫 [Blogger](https://kelevis.github.io)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kelevis&repo=github-readme-stats&cache_seconds=86400&theme=buefy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kelevis&repo=github-readme-stats&theme=buefy">
 
 
 <!--
