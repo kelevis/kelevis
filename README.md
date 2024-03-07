@@ -2,11 +2,11 @@
 🌱 I’m kelevis，focusing on Golang, Vue, Web3.0…  
 📫 [Blogger](https://kelevis.github.io)
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kelevis&repo=github-readme-stats&theme=buefy">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelevis&layout=compact">
 
 <!--
-
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kelevis&repo=github-readme-stats&theme=buefy">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kelevis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kelevis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
