@@ -3,7 +3,7 @@
 📫 [Blogger](https://kelevis.github.io)
 
 <p align="center">
-  <a href="https://github.com/kelevis"><img src="https://img.shields.io/github/followers/spf13.svg?label=GitHub&style=social" alt="GitHub"></a>
+  <a href="https://github.com/kelevis"><img src="https://img.shields.io/badge/github-blue" alt="GitHub"></a>
 
   
 </p>
