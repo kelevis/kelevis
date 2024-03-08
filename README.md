@@ -1,14 +1,14 @@
 ## Hi there 👋
 🌱 I’m kelevis，focusing on Golang, Vue, Web3.0…  
 📫 [Blogger](https://kelevis.github.io)
+#
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelevis&layout=compact">
 
+<!--
 <p align="left">
   <a href="https://github.com/kelevis"><img src="https://img.shields.io/badge/github-blue" alt="GitHub"></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelevis&layout=compact">
-
-<!--
 <a href="https://github.com/kelevis"><img src="https://img.shields.io/badge/github-blue" alt="GitHub"></a>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kelevis&repo=github-readme-stats&theme=buefy">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=kelevis&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
