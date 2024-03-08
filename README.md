@@ -2,13 +2,10 @@
 🌱 I’m kelevis，focusing on Golang, Vue, Web3.0…  
 📫 [Blogger](https://kelevis.github.io)
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/kelevis"><img src="https://img.shields.io/badge/github-blue" alt="GitHub"></a>
-
-  
 </p>
 
-##
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelevis&layout=compact">
 
 <!--
